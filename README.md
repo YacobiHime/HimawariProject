@@ -61,6 +61,10 @@
 開発エンジン：Unity
 対応プラットフォーム：PC
 
+## 生成AIツールの使用
+VSCodeでコーディングの際にGeminiとCopilotを使用
+制作手順を決める際にGeminiを使用
+
 ## 進捗(更新あり)
 ### 映像
 [進捗1](https://youtu.be/z3YvfI-cAcc)
