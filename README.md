@@ -62,12 +62,12 @@
 対応プラットフォーム：PC
 
 ## 生成AIツールの使用
-VSCodeでコーディングの際にGeminiとCopilotを使用
-制作手順を決める際にGeminiを使用
+VSCodeでスクリプトを編集する際にGeminiとCopilotを使用<br>
+Unityのエラーコードの翻訳にGeminiを使用
 
 ## 進捗(更新あり)
 ### 映像
-[進捗1](https://youtu.be/z3YvfI-cAcc)
+[進捗1](https://youtu.be/z3YvfI-cAcc)<br>
 [進捗2](https://youtu.be/04Vqv0oGzrc)
 
 ### 画像
